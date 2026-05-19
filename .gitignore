@@ -1,0 +1,20 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.slnx.user
+
+# Images — not committed (embedded at build time from local copies)
+donate.jpg
+tcb.jpg
+momo.jpg
+
+# OS
+Thumbs.db
+Desktop.ini
